@@ -21,7 +21,7 @@ We will use data from the General Social Survey to examine the relationship betw
 
 We will be using [Quarto](https://quarto.org/) to write the actual reports as pdf documents. You should read in full the instructions for using Quarto on the Canvas page. Quarto will allow you to create professional quality reports with your tables and figures fully integrated. In this project, you will find a `full_report.qmd` quarto file that you will use to produce your report. All assignments should be completed by knitting this report to PDF and submitting the PDF on Canvas.
 
-You can learn more about the dataset that you will be using by going to the README in the input directory, where you will also find the actual RData file itself.
+You can learn more about the dataset that you will be using by opening to the DATA_SOURCE.md file in the input directory, where you will also find the actual RData file itself.
 
 Please keep the following guidelines in mind for all project reports:
 
